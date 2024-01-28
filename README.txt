@@ -25,6 +25,7 @@ Funciones:
 	21) inverso_icmp -------- busqueda inversa de un paquete icmp (implementado solo para paquetes icmp tipo ping con longitud de 98)
 	22) inverso_tcp --------- busqueda inversa de un paquete tcp (implementado solo para paquetes tcp de tipo SYN)
 
+--Ejecutar como superusuario.
 --La herramienta esta hecha en KaliLinux, si presenta problemas al ejecutarla podria ser x falta de paquetes q se utilizan. Las explresiones regulares son escenciales en esta herramienta.
 
 --El teclado de la laptop esta en ingles x lo q si algo lleva tilde pues no la tiene aqui
